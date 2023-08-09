@@ -8,10 +8,6 @@ This repository contains a Python script which runs a simple GUI application ins
 
 Before running this project, make sure Docker is installed on your system. If Docker is not installed on your system, please follow the instructions on the Docker [website](https://docs.docker.com/get-docker/) to install it.
 
-## Application
-
-The Python GUI application displays a button. Upon clicking the button, a greeting message to Mr. Adefemi Michel is displayed, expressing appreciation for his wisdom as a DevOps Engineer.
-
 ## Building the Docker Image
 
 The Docker image can be built using the following command in the directory containing the Dockerfile:
