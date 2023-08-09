@@ -1,8 +1,11 @@
 # Docker-Python-App
 
 This repository contains a Python script which runs a simple GUI application inside a Docker container. The application greets Mr. Adefemi Michel and expresses appreciation for his wisdom as a DevOps Engineer through a user-friendly interface.
+-----------------------------------------------------------------------------------------------------------------------------------
 
-![GUI Application Screenshot](/path/to/screenshot.png)
+# DEMO
+
+[template video.webm](https://github.com/Nahsc0/Dockerized-Python-Script-Alpine/assets/106038656/0aeeefa9-bd28-499b-897c-48e75300a314)
 
 ## Installation
 
