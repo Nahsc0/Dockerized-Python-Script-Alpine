@@ -26,10 +26,19 @@ Replace `my-python-app` with the name you chose for your Docker image.
 
 - test.py: The Python script that is run inside the Docker container. It contains a function that greets Mr. Adefemi Michel and expresses appreciation for his wisdom as a DevOps Engineer.
 
-# Contributing
+# Contributors:
+- Nahsc0 (Team-Lead)
+- abdulmalik-devs
+- Devbarham
+- Ufas-001
+- eniolastyle
+- ABSQUARE1
+- Eunice2000
+- husseinalamutu
 
-Contributions are welcome! Please fork the project and create a pull request with your changes.
+
+
 
 # Licensing
 
-This project is licensed under the terms of the MIT license.
+This project is licensed under the Nigerian Copyright Protection Law of Intellectual Property Rights (CAC) 2023.
