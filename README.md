@@ -26,15 +26,17 @@ Replace `my-python-app` with the name you chose for your Docker image.
 
 - test.py: The Python script that is run inside the Docker container. It contains a function that greets Mr. Adefemi Michel and expresses appreciation for his wisdom as a DevOps Engineer.
 
-# Contributors:
-- @Nahsc0 (Team-Lead)
-- @abdulmalik-devs
-- @Devbarham
-- @Ufas-001
-- @eniolastyle
-- @ABSQUARE1
-- @Eunice2000
-- @husseinalamutu
+## Contributors
+
+- [Nahsc0](https://github.com/Nahsc0) (Team Lead)
+- [abdulmalik-devs](https://github.com/abdulmalik-devs)
+- [Devbarham](https://github.com/Devbarham)
+- [Ufas-001](https://github.com/Ufas-001)
+- [eniolastyle](https://github.com/eniolastyle)
+- [ABSQUARE1](https://github.com/ABSQUARE1)
+- [Eunice2000](https://github.com/Eunice2000)
+- [husseinalamutu](https://github.com/husseinalamutu)
+
 
 
 
