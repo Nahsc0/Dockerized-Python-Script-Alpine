@@ -1,10 +1,16 @@
 # Docker-Python-App
 
-This repository contains a Python script which is run inside a Docker container. The Python script greets Mr. Adefemi Michel and expresses appreciation for his wisdom as a DevOps Engineer.
+This repository contains a Python script which runs a simple GUI application inside a Docker container. The application greets Mr. Adefemi Michel and expresses appreciation for his wisdom as a DevOps Engineer through a user-friendly interface.
+
+![GUI Application Screenshot](/path/to/screenshot.png)
 
 ## Installation
 
 Before running this project, make sure Docker is installed on your system. If Docker is not installed on your system, please follow the instructions on the Docker [website](https://docs.docker.com/get-docker/) to install it.
+
+## Application
+
+The Python GUI application displays a button. Upon clicking the button, a greeting message to Mr. Adefemi Michel is displayed, expressing appreciation for his wisdom as a DevOps Engineer.
 
 ## Building the Docker Image
 
@@ -23,8 +29,7 @@ Replace `my-python-app` with the name you chose for your Docker image.
 ## File Structure
 
 - Dockerfile: The Dockerfile used to build the Docker image.
-
-- test.py: The Python script that is run inside the Docker container. It contains a function that greets Mr. Adefemi Michel and expresses appreciation for his wisdom as a DevOps Engineer.
+- test.py: The Python script that runs the GUI application within Docker. The application greets Mr. Adefemi Michel and expresses appreciation for his wisdom as a DevOps Engineer.
 
 ## Contributors
 
@@ -36,10 +41,6 @@ Replace `my-python-app` with the name you chose for your Docker image.
 - [ABSQUARE1](https://github.com/ABSQUARE1)
 - [Eunice2000](https://github.com/Eunice2000)
 - [husseinalamutu](https://github.com/husseinalamutu)
-
-
-
-
 
 # Licensing
 
