@@ -14,3 +14,4 @@ COPY test.py .
 
 # Run the Python script
 CMD ["python3", "test.py"]
+
