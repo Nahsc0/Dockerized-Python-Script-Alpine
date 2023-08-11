@@ -1,4 +1,4 @@
-# Docker-Python-App
+# Docker-Python-Application
 
 This repository contains a Python script which runs a simple GUI application inside a Docker container. The application greets Mr. Adefemi Michel and expresses appreciation for his wisdom as a DevOps Engineer through a user-friendly interface.
 -----------------------------------------------------------------------------------------------------------------------------------
